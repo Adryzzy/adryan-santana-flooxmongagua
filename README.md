@@ -14,7 +14,7 @@ Atualmente, estou estudando programação e desenvolvendo projetos enquanto apre
 - **[Node.js Backend Server](https://github.com/adryan-santana-flooxmongagua/nodejs-backendsever)**: Um servidor backend simples utilizando Node.js.  
 - **[User Management API (Restify)](https://github.com/adryan-santana-flooxmongagua/user-management-api-restify)**: Uma API de gerenciamento de usuários criada com Restify.
 - **[Fundamentos de JavaScript](https://github.com/adryan-santana-flooxmongagua/fundamentos-js)**: Repositório contendo exercícios e exemplos básicos de JavaScript.
-- **[Wpp Clone](https://github.com/adryan-santana-flooxmongagua/Wpp-clone)**: Um clone do WhatsApp Web utilizando HTML, CSS e JavaScript.
+- **[Whatsapp Clone](https://github.com/adryan-santana-flooxmongagua/Wpp-clone)**: Um clone do WhatsApp Web utilizando HTML, CSS e JavaScript.
 - **[Project Dropbox Clone](https://github.com/adryan-santana-flooxmongagua/Project-DropboxClone)**: Um clone do Dropbox implementado com JavaScript.
 
 ## Outros perfis
