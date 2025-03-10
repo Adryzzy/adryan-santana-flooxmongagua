@@ -19,4 +19,4 @@ Atualmente, estou estudando programação e desenvolvendo projetos enquanto apre
 
 ## Outros perfis
 
-Confira também meu outro GitHub: [AlexSanderXDZ](https://github.com/AlexSanderXDZ).
+Confira também meu outro GitHub: [Adryan Alex.](https://github.com/adryzzy).
